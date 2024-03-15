@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "DISTRICT": "Colombo"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [79.837, 6.966],
+              [79.867, 6.966],
+              [79.867, 6.996],
+              [79.837, 6.996],
+              [79.837, 6.966]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "DISTRICT": "Gampaha"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [79.987, 6.897],
+              [80.017, 6.897],
+              [80.017, 6.927],
+              [79.987, 6.927],
+              [79.987, 6.897]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "DISTRICT": "Kalutara"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [79.957, 6.697],
+              [79.987, 6.697],
+              [79.987, 6.727],
+              [79.957, 6.727],
+              [79.957, 6.697]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+  

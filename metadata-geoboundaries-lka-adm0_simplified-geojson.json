@@ -1,0 +1,15 @@
+{
+    "created": "2022-01-06T14:06:38.552157",
+    "description": "Simplified GeoJSON ADM0 boundaries for Sri Lanka",
+    "format": "GeoJSON",
+    "download_url": "https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/LKA/ADM0/geoBoundaries-LKA-ADM0_simplified.geojson",
+    "id": "c82d0191-8d23-4d9e-a8b3-292b7b186762",
+    "last_modified": "2022-01-06T14:06:38.523089",
+    "metadata_modified": "2023-07-31T00:45:26.995519",
+    "microdata": false,
+    "dataset_id": "a61f6cbe-f779-4d22-9ae6-73afce6177da",
+    "resource_type": "api",
+    "name": "geoBoundaries-LKA-ADM0_simplified.geojson",
+    "mimetype": null,
+    "size": "0.0B"
+}
